@@ -11,9 +11,9 @@ y 3 proyectos realizados.
 
 ## ¡Te invito a que los veas! 👇
 
-- [Hornero App - Globant](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Black Cat - Tienda Online](https://github.com/matiassingers/awesome-readme)
- - [CinemaDB - Movie database](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [Hornero App - Globant](https://github.com/benjaminBecerra/Hornero-App--Globant-)
+ - [Black Cat - Tienda Online](https://github.com/benjaminBecerra/Black-Cat)
+ - [CinemaDB - Movie database](https://github.com/benjaminBecerra/Cinema-DB)
 
 ## 🔗 Links
 
