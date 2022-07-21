@@ -9,13 +9,13 @@ pasión. Me decidí por hacer el Coding Bootcamp de
 [Plataforma 5](https://www.plataforma5.la/), sumando así más de 800 horas de codeo 
 y 3 proyectos realizados.
 
-## ¡Te invito a que los veas! 👇
+### ¡Te invito a que los veas! 👇
 
 - [Hornero App - Globant](https://github.com/benjaminBecerra/Hornero-App--Globant-)
  - [Black Cat - Tienda Online](https://github.com/benjaminBecerra/Black-Cat)
  - [CinemaDB - Movie database](https://github.com/benjaminBecerra/Cinema-DB)
 
-## 🔗 Links
+### 🔗 Links
 
 |[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminbecerra/) |
 |-------- |--------|
