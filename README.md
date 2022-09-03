@@ -14,6 +14,8 @@ y 3 proyectos realizados.
 - [Hornero App - Globant](https://github.com/benjaminBecerra/Hornero-App--Globant-)
  - [Black Cat - Tienda Online](https://github.com/benjaminBecerra/Black-Cat)
  - [CinemaDB - Movie database](https://github.com/benjaminBecerra/Cinema-DB)
+ 
+ Hoy dia me encuentro trabajando en los Liquid Studios de Accenture Argentina, codeando y experimentando en una gran variedad de proyectos, en este momento enfocandonos mucho en Metaverso.
 
 ### 🔗 Links
 
